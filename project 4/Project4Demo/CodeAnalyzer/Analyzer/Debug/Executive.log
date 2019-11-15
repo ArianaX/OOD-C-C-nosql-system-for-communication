@@ -1,0 +1,22 @@
+﻿  Executive.cpp
+c:\users\arian\onedrive\documents\su\687ood\project 4\project4demo\codeanalyzer\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+c:\users\arian\onedrive\documents\su\687ood\project 4\project4demo\codeanalyzer\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ConfigureParser.cpp
+c:\users\arian\onedrive\documents\su\687ood\project 4\project4demo\codeanalyzer\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ActionsAndRules.cpp
+c:\users\arian\onedrive\documents\su\687ood\project 4\project4demo\codeanalyzer\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Logger.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+c:\users\arian\onedrive\documents\su\687ood\project 4\project4demo\codeanalyzer\filesystem\filesystem.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\arian\onedrive\documents\su\687ood\project 4\project4demo\codeanalyzer\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  FileMgr.cpp
+c:\users\arian\onedrive\documents\su\687ood\project 4\project4demo\codeanalyzer\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  AbstrSynTree.cpp
+  Generating Code...
+  Executive.vcxproj -> C:\Users\arian\OneDrive\Documents\SU\687OOD\project 4\Project4Demo\Debug\CodeAnalyzer.exe
